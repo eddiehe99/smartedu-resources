@@ -10,6 +10,12 @@
 
 - [Smartedu-Download](https://github.com/52beijixing/smartedu-download)
 
+- [国家中小学智慧教育平台电子课本下载工具（tchMaterial-parser）](https://github.com/happycola233/tchMaterial-parser)
+
 - [Algodoo](https://www.algodoo.com/download/)
 
 - [Tracker](https://opensourcephysics.github.io/tracker-website/)
+
+## References
+
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
